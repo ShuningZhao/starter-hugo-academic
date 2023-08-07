@@ -1,9 +1,9 @@
 ---
 title: Shuning Zhao
-role: PhD Candidate
+role: Ph.D. Candidate
 avatar_filename: id_pic.png
-bio: My research interests include the application of Artifical Intelligence and
-  Machine Learning in Finance, Insurance Speech and Audio domians.
+bio: My research interests include the application of Artificial Intelligence and
+  Machine Learning in Finance, Insurance Speech, and Audio domains.
 interests:
   - Artificial Intelligence
   - Quantitative Finance
@@ -29,9 +29,9 @@ organizations:
     url: https://www.tsinghua.edu.cn/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: Ph.D. in Artificial Intelligence
       institution: Tsinghua University
-      year: 2020
+      year: ""
     - course: MEng in Computer Science
       institution: University of New South Wales
       year: ""
@@ -41,10 +41,10 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Zhao
 highlight_name: true
-first_name: Alice
+first_name: Shuning
 email: ""
 ---
-Shuning Zhao is a PhD Candidate in artificial intelligence at the Tsinghua Statistical Learning Lab. His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shuning Zhao is a Ph.D. Candidate in artificial intelligence at the Tsinghua Statistical Artificial Intelligence & Learning (TSAIL) Group. His research interests include distributed robotics, mobile computing, and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
