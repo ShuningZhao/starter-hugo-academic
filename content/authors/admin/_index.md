@@ -6,8 +6,8 @@ bio: My research interests include the application of Artifical Intelligence and
   Machine Learning in Finance, Insurance Speech and Audio domians.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantitative Finance
+  - Speech and Audio Processing
 social:
   - icon: envelope
     icon_pack: fas
