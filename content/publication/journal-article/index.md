@@ -18,7 +18,7 @@ abstract: >-
 
 
   Rather than reducing the number of content feature dimensions (Kaminski and Hopp, 2020), by enabling advanced prediction models to accommodate many content features, prediction accuracy rises substantially.
-slides: example
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
@@ -46,9 +46,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2023-08-07T14:08:36.071Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
