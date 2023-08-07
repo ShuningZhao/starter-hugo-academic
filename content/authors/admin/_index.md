@@ -46,5 +46,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Shuning Zhao is a PhD Candidate of artificial intelligence at the Tsinghua Statistical Learning Lab. His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shuning Zhao is a PhD Candidate in artificial intelligence at the Tsinghua Statistical Learning Lab. His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
