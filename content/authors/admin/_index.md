@@ -26,6 +26,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
+  - name: Data Science and AI Association of Australia
+    url: www.dsai.org.au
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn/en/
 education:
@@ -45,7 +47,7 @@ status:
 last_name: Zhao
 highlight_name: true
 first_name: Shuning
-email: ""
+email: firstname.lastname@dsai.org.au
 ---
 Shuning Zhao is a Ph.D. Candidate in artificial intelligence at the Tsinghua Statistical Artificial Intelligence & Learning (TSAIL) Group. His research interests include distributed robotics, mobile computing, and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
