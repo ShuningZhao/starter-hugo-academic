@@ -1,9 +1,9 @@
 ---
 title: Shuning Zhao
 role: Ph.D. Candidate
-avatar_filename: id_pic.png
-bio: My research interests include the application of Artificial Intelligence and
-  Machine Learning in Finance, Insurance Speech, and Audio domains.
+avatar_filename: suprised-cat.jpg
+bio: My research interests include the application of Artificial Intelligence
+  and Machine Learning in Finance, Insurance Speech, and Audio domains.
 interests:
   - Artificial Intelligence
   - Quantitative Finance
