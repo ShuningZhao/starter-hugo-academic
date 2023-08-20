@@ -21,7 +21,7 @@ social:
     link: https://github.com/ShuningZhao
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/shuning-zhao-38405544/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
