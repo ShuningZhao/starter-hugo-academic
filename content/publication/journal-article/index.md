@@ -25,7 +25,7 @@ publication_types:
 authors:
   - Osamah M Al-Qershi
   - Junbum Kwon
-  - Shuning Zhao
+  - admin
   - Zhaokun Li
 author_notes: []
 publication: European Journal of Marketing
