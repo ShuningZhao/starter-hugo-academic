@@ -116,8 +116,8 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: firstname.lastname@dsai.org
+      phone: +88 8888 8888
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
@@ -131,14 +131,6 @@ sections:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
         - icon: video
           icon_pack: fas
           name: Zoom Me
