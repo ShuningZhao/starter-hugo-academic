@@ -114,10 +114,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please feel free to contact me for any questions.
       # Contact (add or remove contact options as necessary)
       email: firstname.lastname@dsai.org
-      phone: +88 8888 8888
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
@@ -130,11 +129,6 @@ sections:
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
