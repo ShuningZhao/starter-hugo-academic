@@ -116,14 +116,14 @@ sections:
       text: |-
         Please feel free to contact me for any questions.
       # Contact (add or remove contact options as necessary)
-      email: firstname.lastname@dsai.org
+      email: firstname.lastname@dsai.org.au
       appointment_url: 'https://calendly.com'
       address:
         street: Department of Computer Science and Technology, Tsinghua University
         city: Haidian District
         region: Beijing
         postcode: '100086'
-        country: United States
+        country: China
         country_code: CN
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
