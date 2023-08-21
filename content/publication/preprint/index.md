@@ -30,7 +30,7 @@ url_project: ""
 publication_short: ""
 url_source: "#"
 url_video: "#"
-date: 2019-04-07T00:00:00Z
+date: 2023-08-21T06:19:42.468Z
 url_slides: ""
 links:
   - name: Custom Link
