@@ -4,8 +4,8 @@ abstract: In authentication scenarios, applications of practical speaker
   text. Previous studies played an audio adversarial example as a digital signal
   to perform physical attacks, which would be easily rejected by audio replay
   detection modules. This work shows that by playing our crafted adversarial
-  perturbation as a separate source when the adversary is speaking, the
-  the practical speaker verification system will misjudge the adversary as a target
+  perturbation as a separate source when the adversary is speaking, the the
+  practical speaker verification system will misjudge the adversary as a target
   speaker. A two-step algorithm is proposed to optimize the universal
   adversarial perturbation to be text-independent and has little effect on
   authentication text recognition. We also estimated room impulse response (RIR)
@@ -15,12 +15,12 @@ abstract: In authentication scenarios, applications of practical speaker
   recognition only increased by 3.55%. And recorded audio could pass replay
   detection for the live person speaking.
 slides: ""
-url_pdf: "https://arxiv.org/pdf/2105.09022"
+url_pdf: https://arxiv.org/pdf/2105.09022
 publication_types:
   - "1"
 authors:
   - Weiyi Zhang
-  - Shuning Zhao
+  - admin
   - Le Liu
   - Jianmin Li
   - Xingliang Cheng
@@ -45,9 +45,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-06-01T00:00:00Z
+date: 2021-06-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2021-06-01T00:00:00Z
+publishDate: 2021-06-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/zhang-wy15/Attack_practical_asv
 ---
