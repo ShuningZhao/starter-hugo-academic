@@ -1,5 +1,5 @@
 ---
-title: Shuning Zhao
+title: Shuning Zhao (赵舒宁）
 role: Ph.D. Candidate
 avatar_filename: avatar.jpg
 bio: My research interests include the application of Artificial Intelligence
