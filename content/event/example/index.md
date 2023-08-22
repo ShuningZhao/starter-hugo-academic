@@ -6,7 +6,7 @@ abstract: There is a disconnect between business’s understanding of becoming A
   data scientists to truly harness the power of data and AI.
 slides: example
 url_pdf: ""
-summary: Discover how to prevent your business from failing in Data Science and AI in Spark Festival 2018.
+summary: Businesses often overlook the complexity of becoming Data Science and AI-driven. Join our discussion with Shuning Zhao and Jacky Koh on why businesses fail at AI and how automated machine learning tools can help bootstrap AI-driven decision-making at Spark Festival 2018.
 title: Why are Businesses Failing at Data Science and AI?
 location: Level 36, 60 Margaret Street, Sydney, 2000, NSW, Australia
 date: 2018-10-23T09:00:00.000Z
