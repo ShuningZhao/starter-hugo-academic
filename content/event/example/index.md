@@ -1,73 +1,62 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+abstract: There is a disconnect between business’s understanding of becoming AI
+  and data driven and the reality. Businesses think data science is the one step
+  solution to all data problems to become AI driven. However in reality, it
+  requires much more and a much bigger team of different expertise, not just
+  data scientists to truly harness the power of data and AI.
+slides: example
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: Why are Businesses Failing at Data Science and AI?
+location: Level 36, 60 Margaret Street, Sydney, 2000, NSW, Australia
+date: 2018-10-23T09:00:00.000Z
+date_end: 2018-10-23T12:00:00.000Z
+all_day: false
+event: Spark Festival
+event_url: https://discover.events.com/au/state-of-new-south-wales/belfield/e/business/businesses-failing-data-science-margaret-street-belfield-sydney-canterbury-bankstown-nsw-2191-australia-267752446
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+publishDate: 2017-01-01T00:00:00Z
+tags: []
 projects:
   - example
+image:
+  caption: ""
+  focal_point: Right
+  filename: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F49198252%2F245620971032%2F1%2Foriginal.jpg?auto=compress&s=add4b136a890b44fb7adf17038169781
+url_code: ""
 ---
+## Artificial Intelligence and Data Science in Businesses
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+There is a disconnect between business’s understanding of becoming AI and data driven and the reality. Businesses think data science is the one step solution to all data problems to become AI driven. However in reality, it requires much more and a much bigger team of different expertise, not just data scientists to truly harness the power of data and AI.
 
-Slides can be added in a few ways:
+**Featured Speakers:**
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+**Jacky Koh** - Co-founder of Arg AI a Machine learning startup focused on AutoML and co-founder of Vylar that is both an app consulting and a self app development company that has built many chart topping apps hitting #1 overall in the appstore with 4 million + installs. Jacky is also currently consulting and building AI tech for IAG Satellite and a former EY Data and Analytics data science consultant.
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Talking point: Many businesses invest millions in building a data science team yet is still failing to deliver any noticeable value using data science and AI. Jacky will explore why these businesses are failing at ai and how tools like automated machine learning can help companies bootstrap and start making ai driven decisions.
+
+**Shunning Zha**o - Lead Data Scientist at Servian. Shuning has worked with an extensive amount of clients including Australian super, Google Cloud, CBA and Zurich Financial Services etc. Prior to that he has also held quantitative positiosn at SRT Ventures, Equifax and UBS
+
+Even more exciting line-up of speakers to be announced soon. 
+
+\=================
+
+*You may be photographed or videod while attending this event: please approach the organiser if you have questions, concerns, or do not wish this to happen.*
+
+*The event organisers may add you to a mailing list so they can follow up, and you can receive updates about their activities: this mailing list will have an easy-to-find unsubscribe button.*
+
+*This event is part of ​[Spark Festival](http://sparkfestival.co/) and upholds the [​Spark Code of Conduct](http://sparkfestival.co/code-of-conduct/).*
