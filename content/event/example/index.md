@@ -49,7 +49,7 @@ There is a disconnect between business’s understanding of becoming AI and data
 
 Talking point: Many businesses invest millions in building a data science team yet is still failing to deliver any noticeable value using data science and AI. Jacky will explore why these businesses are failing at ai and how tools like automated machine learning can help companies bootstrap and start making ai driven decisions.
 
-**Shunning Zha**o - Lead Data Scientist at Servian. Shuning has worked with an extensive amount of clients including Australian super, Google Cloud, CBA and Zurich Financial Services etc. Prior to that he has also held quantitative positiosn at SRT Ventures, Equifax and UBS.
+**Shunning Zhao** - Lead Data Scientist at Servian. Shuning has worked with an extensive amount of clients including Australian super, Google Cloud, CBA and Zurich Financial Services etc. Prior to that he has also held quantitative positiosn at SRT Ventures, Equifax and UBS.
 
 Even more exciting line-up of speakers to be announced soon. 
 
