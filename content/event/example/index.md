@@ -6,7 +6,7 @@ abstract: There is a disconnect between business’s understanding of becoming A
   data scientists to truly harness the power of data and AI.
 slides: example
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Discover how to prevent your business from failing in Data Science and AI in Spark Festival 2018.
 title: Why are Businesses Failing at Data Science and AI?
 location: Level 36, 60 Margaret Street, Sydney, 2000, NSW, Australia
 date: 2018-10-23T09:00:00.000Z
@@ -19,11 +19,11 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: Level 36, 60 Margaret Street
+  city: Sydney
+  region: NSW
+  postcode: "2000"
+  country: Australia
 links:
   - icon: twitter
     icon_pack: fab
@@ -49,7 +49,7 @@ There is a disconnect between business’s understanding of becoming AI and data
 
 Talking point: Many businesses invest millions in building a data science team yet is still failing to deliver any noticeable value using data science and AI. Jacky will explore why these businesses are failing at ai and how tools like automated machine learning can help companies bootstrap and start making ai driven decisions.
 
-**Shunning Zha**o - Lead Data Scientist at Servian. Shuning has worked with an extensive amount of clients including Australian super, Google Cloud, CBA and Zurich Financial Services etc. Prior to that he has also held quantitative positiosn at SRT Ventures, Equifax and UBS
+**Shunning Zha**o - Lead Data Scientist at Servian. Shuning has worked with an extensive amount of clients including Australian super, Google Cloud, CBA and Zurich Financial Services etc. Prior to that he has also held quantitative positiosn at SRT Ventures, Equifax and UBS.
 
 Even more exciting line-up of speakers to be announced soon. 
 
