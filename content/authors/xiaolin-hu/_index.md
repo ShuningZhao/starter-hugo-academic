@@ -1,7 +1,7 @@
 ---
 title: Xiaolin Hu
 role: Associate Professor
-avatar_filename: xiaolin.jpg
+avatar_filename: avatar.jpg
 bio: Faculty member of Department of Computer Science and Technology, Tsinghua
   University, working in the TSAIL group directed by Prof. Bo Zhang and Prof.
   Jun Zhu. My current research interests include artificial neural networks and
