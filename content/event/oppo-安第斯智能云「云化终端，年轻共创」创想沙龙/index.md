@@ -12,7 +12,7 @@ all_day: false
 links:
   - url: https://weibo.com/6074410641/MF0x3zp3F?pagetype=profilefeed
     icon_pack: fab
-    icon: Weibo
+    icon: weibo
     name: Follow
 event: OPPO
 event_url: http://m.e-chinaedu.cn/mobile/index.php?m=mobile&c=index&a=show&catid=199&id=101944
