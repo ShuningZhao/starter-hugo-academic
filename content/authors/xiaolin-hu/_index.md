@@ -18,7 +18,7 @@ social:
       header: false
     link: http://www.xlhu.cn/
     icon_pack: fab
-    icon: '<i class="fa-thin fa-house" style="color: #1f3e51;"></i>'
+    icon: '<i class="fa-solid fa-house" style="color: #2a4d93;"></i>'
   - display:
       header: false
     link: https://scholar.google.com/citations?user=PksdgoUAAAAJ&hl=en
