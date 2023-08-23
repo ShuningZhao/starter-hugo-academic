@@ -11,8 +11,9 @@ date_end: 2023-04-27T04:30:00.000Z
 all_day: false
 links:
   - url: https://weibo.com/6074410641/MF0x3zp3F?pagetype=profilefeed
-    icon_pack: fas
+    icon_pack: fab
     icon: Weibo
+    name: Follow
 event: OPPO
 event_url: http://m.e-chinaedu.cn/mobile/index.php?m=mobile&c=index&a=show&catid=199&id=101944
 publishDate: 2023-08-23T03:47:17.583Z
