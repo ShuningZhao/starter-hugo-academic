@@ -18,7 +18,7 @@ social:
       header: false
     link: http://www.xlhu.cn/
     icon_pack: fas
-    icon: fa-house
+    icon: envelope
   - display:
       header: false
     link: https://scholar.google.com/citations?user=PksdgoUAAAAJ&hl=en
